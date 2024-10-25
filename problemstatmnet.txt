@@ -1,0 +1,5 @@
+A large, multinational bank is seeking to modernize its legacy transaction processing
+systems to improve efficiency, scalability, and customer experience. The bank aims to implement a
+real-time transaction processing system capable of handling high transaction volumes while ensuring
+data integrity, security, and compliance with regulatory requirements. For the above, Design &
+Implement a Modern web application
